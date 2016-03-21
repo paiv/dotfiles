@@ -1,0 +1,5 @@
+# gnu readline
+
+# disable jumping back to matched paren
+set blink-matching-paren off
+
